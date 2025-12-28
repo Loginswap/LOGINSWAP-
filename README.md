@@ -1,4 +1,4 @@
-# LoginSwap – DeFi Swaps Made Simple
+<p align="center"> <img src="logo.png" alt="LoginSwap Logo" width="200"/> </p># LoginSwap – DeFi Swaps Made Simple
 
 LoginSwap is a community-driven decentralized exchange (DEX) designed for **simplicity**, **security**, and **rewards** for $LOGIN holders.
 
