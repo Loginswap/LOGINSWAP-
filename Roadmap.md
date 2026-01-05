@@ -1,36 +1,3 @@
-# LoginSwap Official Roadmap
-
-## Q4 2025 – Solid Foundation & Testing Phase (Completed)
-- Multiple successful airdrop rounds (millions of $LOGIN tokens distributed)
-- Strong community building across Twitter, Telegram, Discord, and Medium
-- Establishment of professional team structure
-- Deployment of test token on Solana and BSC testnets (verified)
-- Comprehensive UI/UX testing and security optimizations
-- Initial partnerships negotiations
-
-## Q1 2026 – Presale & Network Expansion (Jan–Mar 2026)
-- Presale: January 1 – March 31, 2026 (with anti-bot measures)
-- $LOGIN deployment on Solana mainnet (January)
-- Full smart contract audits by top-tier firms
-- Liquidity reserves with vesting and anti-dump
-- Priority: Successful presale and smooth expansion
-
-## Q2 2026 – Platform Launch & Listing (Apr–Jun 2026)
-- Official LoginSwap DEX launch with low-slippage AMM
-- Liquidity pools and gradual $LOGIN listing
-- Staking pools live (5-15% APR rewards)
-- 0.5% transaction fee: 20% burn, 30% to stakers, 50% treasury
-- Gasless swaps feature
-- Step-by-step listings on DEXs/CEXs
-
-## Q3 2026 – Governance & Multi-Chain
-- Multi-chain bridges (BSC ↔ Solana)
-- Full DAO governance for $LOGIN holders
-- Community incentive programs
-
-## Q4 2026 and Beyond – Ecosystem Growth
-- Strategic partnerships and integrations
-- Advanced features (yield farming, launchpad) based on community
-- Ongoing buy & burn, revenue sharing
-
-*Note: Timelines subject to audits, testing, and community consensus. Focus on security and gradual growth.*
+# LoginSwap Official Roadmap LoginSwap is committed to transparent, community-driven growth. Below is our updated roadmap as of January 2026. ## Q4 2025 – Foundation & Community Building (Completed ✅) - Successful airdrop campaigns (millions of $LOGIN distributed) - Active community growth on X, Telegram, Discord, and Medium - Professional team assembly - Testnet deployments on Solana and BSC (verified) - UI/UX testing and security enhancements - Initial partnership discussions ## Q1 2026 – Presale & Mainnet Launch (Current Phase) - Presale: January 1 – March 31, 2026 (with strong anti-bot measures) - $LOGIN mainnet deployment on Solana (January 2026) - Full independent smart contract audits - Locked liquidity with vesting schedules - Focus: Secure presale and stable expansion ## Q2 2026 – DEX Launch & Listings - Full LoginSwap DEX launch with advanced AMM - Liquidity pool creation and initial listings - Staking pools live (5-15% APR) - Transaction fees: 0.5% (20% burn | 30% stakers | 50% treasury) - Gasless swap implementation - Gradual DEX/CEX listings ## Q3 2026 – Multi-Chain & Governance - Cross-chain bridges (BSC ↔ Solana) - DAO governance activation for $LOGIN holders - Expanded community rewards ## Q4 2026 & Beyond – Ecosystem Expansion - Major partnerships and integrations - Advanced features (yield farming, launchpad) based on community votes - Continuous token burn and revenue sharing *Note: Dates are estimates and subject to audits, testing, and community feedback. Security and sustainab![grok_1767073671646](https://github.com/user-attachments/assets/e4b5dd83-0998-4a03-91ca-cbc64e1d38e7)
+![Screenshot_۲۰۲۶۰۱۰۲-۰۵۲۴۵۳_X](https://github.com/user-attachments/assets/2f90a17c-4d58-4693-a394-cb3ce44709e3)
+le growth are our top priorities.*
