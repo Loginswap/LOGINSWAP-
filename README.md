@@ -25,7 +25,11 @@ We make token swaps fast, affordable, and beginner-friendly while rewarding hold
 - **Medium:** [@loginswap](https://medium.com/@loginswap)
   
 
-## Documentation [Tokenomics](./Tokenomics.md) [Roadmap](./Roadmap.md) [Economic Mechanisms](https://medium.com/@loginswap/economic-mechanisms-984cb67f9200) [Whitepaper](https://medium.com/@loginswap/loginswap-whitepaper-99148c60fe31)
+## Documentation 
+[Tokenomics](./Tokenomics.md) 
+[Roadmap](./Roadmap.md) 
+[Economic Mechanisms](https://medium.com/@loginswap/economic-mechanisms-984cb67f9200) 
+[Whitepaper](https://medium.com/@loginswap/loginswap-whitepaper-99148c60fe31)
   
 ## License
 MIT License
