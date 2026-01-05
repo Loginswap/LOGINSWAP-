@@ -24,13 +24,7 @@ We make token swaps fast, affordable, and beginner-friendly while rewarding hold
 - **YouTube:** [@LoginSwap](https://www.youtube.com/@LoginSwap)
 - **Medium:** [@loginswap](https://medium.com/@loginswap)
 
-## Documentation
-
-- [Tokenomics](https://medium.com/@loginswap/tokenomics-loginswap-da1f625d31ee)
-- [Economic Mechanisms](https://medium.com/@loginswap/economic-mechanisms-984cb67f9200)
-- [Whitepaper](https://medium.com/@loginswap/loginswap-whitepaper-99148c60fe31)
-- [Roadmap](https://medium.com/@loginswap/loginswap-official-roadmap-website-www-loginswap-xyz-f0aaa04177aa)
-
+## Documentation * [Official Whitepaper](./whitepaper.md) * [Official Tokenomics](./tokenomics.md) * [Official Roadmap](./Roadmap.md)
 ## License
 MIT License
 
