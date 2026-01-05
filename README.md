@@ -1,7 +1,7 @@
 <p align="center"> <img src="logo.png" alt="LoginSwap Logo" width="200"/> </p># LoginSwap – DeFi Swaps Made Simple
 
 LoginSwap is a community-driven decentralized exchange (DEX) designed for **simplicity**, **security**, and **rewards** for $LOGIN holders.
-
+* [Official Roadmap](./Roadmap.md)
 We make token swaps fast, affordable, and beginner-friendly while rewarding holders with automatic benefits.
 
 ## Key Features
@@ -25,6 +25,7 @@ We make token swaps fast, affordable, and beginner-friendly while rewarding hold
 - **Medium:** [@loginswap](https://medium.com/@loginswap)
 
 ## Documentation
+
 - [Tokenomics](https://medium.com/@loginswap/tokenomics-loginswap-da1f625d31ee)
 - [Economic Mechanisms](https://medium.com/@loginswap/economic-mechanisms-984cb67f9200)
 - [Whitepaper](https://medium.com/@loginswap/loginswap-whitepaper-99148c60fe31)
