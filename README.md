@@ -23,8 +23,9 @@ We make token swaps fast, affordable, and beginner-friendly while rewarding hold
 - **Discord:** [discord.gg/C2zvZvcZb](https://discord.gg/C2zvZvcZb)
 - **YouTube:** [@LoginSwap](https://www.youtube.com/@LoginSwap)
 - **Medium:** [@loginswap](https://medium.com/@loginswap)
+- 
+## Documentation * [Whitepaper](./whitepaper.md) * [Tokenomics](./Tokenomics.md) * [Roadmap](./Roadmap.md) * [Economic Model](./economic-model.md)
 
-## Documentation * [Official Whitepaper](./whitepaper.md) * [Official Tokenomics](./tokenomics.md) * [Official Roadmap](./Roadmap.md)
 ## License
 MIT License
 
